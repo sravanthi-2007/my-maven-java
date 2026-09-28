@@ -32,6 +32,7 @@ public class App
             System.out.println("Environment: "
                     + properties.getProperty("app.environment"));
 			System.out.println("Hi ");
+			System.out.println("Hello ");
 
         } catch (IOException e) {
             e.printStackTrace();
